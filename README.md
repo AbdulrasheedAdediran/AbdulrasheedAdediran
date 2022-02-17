@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrasheedadediran&show_icons=true&theme=algolia)       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrasheedadediran&theme=algolia)](https://git.io/streak-stats)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
