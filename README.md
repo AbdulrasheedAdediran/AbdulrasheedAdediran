@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrasheedadediran&show_icons=true&theme=algolia)       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrasheedadediran&theme=algolia)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrasheedadediran&layout=compact&bg_color=#232526,#414345,#232526)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrasheedadediran&layout=compact&bg_color=345deg,#232526,#414345,#232526)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
