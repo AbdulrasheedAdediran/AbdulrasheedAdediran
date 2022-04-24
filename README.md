@@ -4,7 +4,7 @@
 ### **I am currently exploring Web3 as a Smart Contract and Frontend Developer** 
 
 - 🌱 Currently learning DeFi Protocols, Ethereum EVM, Smart Contract Security...
-- 👯 Looking to collaborate on Web3 projects.
+- 🧑‍🍳 Looking to collaborate on Web3 projects.
 - 💻 My current stack: Solidity, JavaScript, TypeScript and React.js.
 - 🔗 Connect with me on: <a href="https://www.linkedin.com/in/abdulrasheedadediran">Linkedin</a>, <a href="https://twitter.com/AdeAbdulrasheed">Twitter</a> <br>
 
