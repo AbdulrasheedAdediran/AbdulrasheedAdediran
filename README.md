@@ -1,7 +1,7 @@
 
 # Hello, my name is Abdulrasheed.
 
-### **I am currently exploring Web3 as a Smart Contract/Frontend Developer and sharing what I learn along the way.** 
+### **I am currently exploring Web3 as a Smart Contract/Frontend Developer.** 
 
 
 - 💻 My current stack: Solidity, JavaScript, TypeScript and React.js.
