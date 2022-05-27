@@ -4,7 +4,7 @@
 ### **I am currently exploring Web3 as a Smart Contract/Frontend Developer.** 
 
 
-- 📚 Currently learning Smart Contract Security, Zero Knowledge Proofs...
+- 📚 Currently learning Smart Contract Security
 - 🧑‍🍳 Open to collaborating on DAO, NFT, Game-Fi/DeFi and other Web3-related projects. 
 - 💻 My current stack: Solidity, JavaScript, TypeScript and React.js.
 - 🔗 Connect with me on: <a href="https://www.linkedin.com/in/abdulrasheedadediran">Linkedin</a>, <a href="https://twitter.com/AdeAbdulrasheed">Twitter</a> <br>
