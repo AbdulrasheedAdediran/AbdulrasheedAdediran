@@ -10,7 +10,7 @@
 
 - 📚 Currently learning Smart Contract Security
 - 🧑‍🍳 Open to collaborating on Web3-related projects. 
-- 💻 My current stack: Solidity, JavaScript, TypeScript and React.js.
+- 💻 My current stack: Solidity, JavaScript, TypeScript, React.js, Ethers.js, Hardhat & Foundry.
 
 
 ### Check my recent articles on <a href="https://medium.com/@abdulrasheedadediran">medium</a>.
